@@ -6,7 +6,7 @@ Instructions for running the program:
 
 Notice1: Two arguments must be entered (in the edit configurations). The first one is the port and the second part is the path (C:\Users\nimas\Documents\LastREVNETwork\src\resources\inner).
 
-Note2: The program is written in Java language, so it is needed to have an IDE that can run Java files installed on your computer.
+Notice2: The program is written in Java language, so it is needed to have an IDE that can run Java files installed on your computer.
 Notice3: The default port is 8080.
 
 Notice4: When the server has been run in the IDE, by using the following URL in the browser, the client will be connected.
