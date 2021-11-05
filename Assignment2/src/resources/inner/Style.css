@@ -1,0 +1,74 @@
+h1 {
+    color: red;
+    font-family: "Arial", "Segoe Script";
+    font-size: 30px;
+}
+
+#Picture1 img {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 0;
+    bottom: 40%;
+    left: 0;
+    right: 70%;
+    margin: auto;
+}
+
+#Picture2 img {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 0;
+    bottom: 40%;
+    left: 75%;
+    right: 40%;
+    margin: auto;
+}
+
+#Picture3 img {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 89%;
+    bottom: 40%;
+    left: 75%;
+    right: 40%;
+    margin: auto;
+}
+
+#Picture4 img {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 89%;
+    bottom: 40%;
+    left: 0;
+    right: 70%;
+    margin: auto;
+}
+
+#Picture5 img {
+    width: 15%;
+    height: 40%;
+    position: absolute;
+    top: 0;
+    bottom: 40%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#Picture6 img {
+    width: 20%;
+    height: 30%;
+    position: absolute;
+    top: 89%;
+    bottom: 40%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+
