@@ -4,7 +4,7 @@ Assignment3
 Instructions for running the program:
 
 1- Make a new Java project in your IDE.
-2- Unzip the file and copy the content of src folder into the newyly created project src folder(So in the src folder, there should be two folders named read and write and one java file called TFTPServer).
+2- download and Unzip the file and copy the content of src folder into the newyly created project src folder(So in the src folder, there should be two folders named read and write and one java file called TFTPServer).
 3- Run your IDE and then go to the TFTPServer class and run the code.
 4- Open the Tftpd64 application. Consequently, open the Tftp Client section.
 5- Fill out the Host and Local File parts. (That is, Host: localhost and the path in the Local file: "C:\Users\Ali\IdeaProjects\Assignment3\src\write"
