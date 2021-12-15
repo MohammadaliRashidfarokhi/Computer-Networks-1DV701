@@ -1,4 +1,7 @@
-Instructions for running the program:
+1DV701
+Assignment2
+
+# Instructions for running the program:
 
 1- Make a new Java project in your IDE.
 2- Unzip the file and then put the Assignment2 package inside the src folder of your IDE. (That is, in the src, there should be three folders called resources, response, and server).
