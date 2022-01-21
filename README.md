@@ -15,7 +15,3 @@ TFTP Server
 
 # Assignment 4:
 Network topology and routingFile
-
-
-# Note!
-The teamwork is the best.
